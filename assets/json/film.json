@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": "Peter Jackson",
+    "genre": "Fantasy",
+    "releaseDate": "10 December 2001",
+    "sequel": false,
+    "runningTimeMinutes": 178
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "director": "Peter Jackson",
+    "genre": "Fantasy",
+    "releaseDate": "5 December 2002",
+    "sequel": true,
+    "runningTimeMinutes": 179
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "genre": "Fantasy",
+    "releaseDate": "1 December 2003",
+    "sequel": true,
+    "runningTimeMinutes": 201
+  }
+]

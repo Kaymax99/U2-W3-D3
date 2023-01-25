@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Le Cronache del mondo Emerso - Nihal della Terra del Vento",
+    "author": "Licia Troisi",
+    "genre": "Fantasy",
+    "singleBook": false,
+    "pages": 386
+  },
+  {
+    "title": "Le Cronache del mondo Emerso - La missione di Sennar",
+    "author": "Licia Troisi",
+    "genre": "Fantasy",
+    "singleBook": false,
+    "pages": 406
+  },
+  {
+    "title": "Le Cronache del mondo Emerso - Il Talismano del Potere",
+    "author": "Licia Troisi",
+    "genre": "Fantasy",
+    "singleBook": false,
+    "pages": 518
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Geiman",
+    "genre": "Dark Fantasy",
+    "singleBook": true,
+    "pages": 189
+  }
+]
