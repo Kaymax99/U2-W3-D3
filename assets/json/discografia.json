@@ -2,14 +2,14 @@
   {
     "artist": "Starset",
     "title": "Transmissions",
-    "year": 2004,
+    "year": 2014,
     "genre": [
       "hard rock",
       "electronic rock",
       "alternative rock",
       "progressive rock"
     ],
-    "totalTracks": 20,
+    "totalTracks": 13,
     "tracks": [
       "First Light",
       "Down With The Fallen",
@@ -23,14 +23,7 @@
       "Let It Die",
       "The Future Is Now",
       "Point Of No Return",
-      "Rise And Fall",
-      "My Demons - Acoustic",
-      "Halo - Acoustic",
-      "Point Of No Return - Acoustic",
-      "Let It Die - Acoustic",
-      "My Demons - Synchronice Remix",
-      "Let It Die - Maniac Agenda Remix",
-      "Telescope - EmoTek Remix"
+      "Rise And Fall"
     ]
   }
 ]
